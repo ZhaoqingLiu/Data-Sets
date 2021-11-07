@@ -1,0 +1,61 @@
+Speaker Accent Recognition Data Set 
+
+Abstract: Data set featuring single English words read by speakers from six different countries for accent detection and recognition
+
+Source:
+
+Ernest Fokoue 
+School of Mathematical Sciences 
+Rochester Institute of Technology 
+Rochester, NY 14623, USA 
+epfeqa '@' rit.edu
+
+
+Data Set Information:
+
+N/A
+
+
+Attribute Information:
+
+Response variable: 
+language = {ES, FR, GE, IT, UK, US} The six possible accents considered 
+
+Explanatory variables: 
+X1, X2, ..., X12 Obtained using MFCC on the original time domain soundtrack of the maximum 1s of reading of a word
+
+
+Relevant Papers:
+
+@article{DBLP:journals/corr/MaF15, 
+author = {Zichen Ma and 
+Ernest Fokou{'{e}}}, 
+title = {A Comparison of Classifiers in Performing Speaker Accent Recognition 
+Using MFCCs}, 
+journal = {CoRR}, 
+volume = {[Web Link]}, 
+year = {2015}, 
+url = {[Web Link]}, 
+archivePrefix = {arXiv}, 
+eprint = {1501.07866}, 
+timestamp = {Mon, 13 Aug 2018 16:47:23 +0200}, 
+biburl = {[Web Link]}, 
+bibsource = {dblp computer science bibliography, [Web Link]} 
+}
+
+
+
+Citation Request:
+
+If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository: 
+
+Fokoue, E. (2020). UCI Machine Learning Repository [[Web Link]]. Irvine, CA: University of California, School of Information and Computer Science. 
+
+Here is a BiBTeX citation as well: 
+
+@misc{Fokoue:Ernest:Data:2020:2, 
+author = 'Fokoue, E.', 
+year = '2020', 
+title = '{UCI} Machine Learning Repository', 
+url = '[Web Link]', 
+institution = 'University of California, Irvine, School of Information and Computer Sciences' } 

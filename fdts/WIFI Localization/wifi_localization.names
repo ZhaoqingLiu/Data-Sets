@@ -1,0 +1,29 @@
+Wireless Indoor Localization Data Set 
+
+Abstract: Collected in indoor space by observing signal strengths of seven WiFi signals visible on a smartphone. The decision variable is one of the four rooms.
+
+Source:
+
+Rajen Bhatt, rajen.bhatt '@' gmail.com
+
+
+Data Set Information:
+
+Collected to perform experimentation on how wifi signal strengths can be used to determine one of the indoor locations.
+
+
+Attribute Information:
+
+Each attribute is wifi signal strength observed on smartphone.
+
+
+Relevant Papers:
+
+Jayant G Rohra, Boominathan Perumal, Swathi Jamjala Narayanan, Priya Thakur, and Rajen B Bhatt, 'User Localization in an Indoor Environment Using Fuzzy Hybrid of Particle Swarm Optimization & Gravitational Search Algorithm with Neural Networks', in Proceedings of Sixth International Conference on Soft Computing for Problem Solving,2017, pp. 286-295.
+
+
+
+Citation Request:
+
+1. Rajen Bhatt, 'Fuzzy-Rough Approaches for Pattern Classification: Hybrid measures, Mathematical analysis, Feature selection algorithms, Decision tree algorithms, Neural learning, and Applications', Amazon Books 
+2. Jayant G Rohra, Boominathan Perumal, Swathi Jamjala Narayanan, Priya Thakur, and Rajen B Bhatt, 'User Localization in an Indoor Environment Using Fuzzy Hybrid of Particle Swarm Optimization & Gravitational Search Algorithm with Neural Networks', in Proceedings of Sixth International Conference on Soft Computing for Problem Solving,2017, pp. 286-295.
